@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+le cada segemento para realizar el contador 4 entradas y 7 salidas 
 
 ## How to test
 
-Explain how to use your project
+display de 7 segmentos con 4 entradas 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Display 7 segmentos 
